@@ -1,2 +1,4 @@
 .idea
 .DS_Store
+.idea/modules.xml
+.idea/mri_acq_recon_tutorial.iml
